@@ -1,5 +1,11 @@
+import HttpRes from "./HttpRes";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <HttpRes />
+    </>
+  );
 }
 
 export default App;
